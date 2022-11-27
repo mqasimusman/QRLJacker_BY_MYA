@@ -1,0 +1,44 @@
+{
+  "0": {
+    "name": "whatsapp",
+    "web_url": "https://web.whatsapp.com",
+    "session_type": "profile",
+    "useragent": "Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0",
+    "session_path": "profiles/Sun-Nov-27-02:56:15-2022.pf"
+  },
+  "1": {
+    "name": "whatsapp",
+    "web_url": "https://web.whatsapp.com",
+    "session_type": "profile",
+    "useragent": "Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0",
+    "session_path": "profiles/Sun-Nov-27-03:20:12-2022.pf"
+  },
+  "2": {
+    "name": "whatsapp",
+    "web_url": "https://web.whatsapp.com",
+    "session_type": "profile",
+    "useragent": "Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0",
+    "session_path": "profiles/Sun-Nov-27-04:10:35-2022.pf"
+  },
+  "3": {
+    "name": "whatsapp",
+    "web_url": "https://web.whatsapp.com",
+    "session_type": "profile",
+    "useragent": "Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0",
+    "session_path": "profiles/Sun-Nov-27-05:50:57-2022.pf"
+  },
+  "4": {
+    "name": "whatsapp",
+    "web_url": "https://web.whatsapp.com",
+    "session_type": "profile",
+    "useragent": "Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0",
+    "session_path": "profiles/Sun-Nov-27-06:37:44-2022.pf"
+  },
+  "5": {
+    "name": "whatsapp",
+    "web_url": "https://web.whatsapp.com",
+    "session_type": "profile",
+    "useragent": "Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0",
+    "session_path": "profiles/Sun-Nov-27-07:49:27-2022.pf"
+  }
+}
